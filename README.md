@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Code with Me (3)](https://user-images.githubusercontent.com/110904846/188980710-ab79846a-c71d-41e5-85f0-62635b90822e.gif)
+![Code with Me](https://user-images.githubusercontent.com/110904846/188981191-18a3306e-e6ac-4fe9-8b7c-fd45397c823f.gif)
+
 
 
 
