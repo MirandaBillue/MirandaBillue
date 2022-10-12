@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ![Code with Me](https://user-images.githubusercontent.com/110904846/189247780-2d965717-b3f1-4b4b-a33a-e5ec65f70bcd.gif)
 [![Miranda's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirandabillue&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirandabillue)](https://github.com/mirandabillue&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirandabillue¶show_icons=true&theme=radical)
 
 
 
