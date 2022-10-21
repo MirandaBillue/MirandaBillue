@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 -->
 
 
+![Code with Me (1)](https://user-images.githubusercontent.com/110904846/197204437-9a2c9c2b-3b69-4d19-bd87-910995b2fb4c.gif)
 
 
-![Code with Me](https://user-images.githubusercontent.com/110904846/197204010-b2ecd808-a743-4a4d-adf5-403ded82b4d7.gif)
+[![Code with Me](https://user-images.githubusercontent.com/110904846/197204010-b2ecd808-a743-4a4d-adf5-403ded82b4d7.gif)
 [![Miranda's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirandabillue&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirandabillue&show_icons=true&theme=radical)
 
